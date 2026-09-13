@@ -1,0 +1,11 @@
+{
+  "name": "auraticket",
+  "version": "1.0.0",
+  "description": "Discord ticket bot with invite verification and transcripts",
+  "main": "index.js",
+  "scripts": {"start": "node index.js"},
+  "dependencies": {
+    "discord.js": "^14.25.1",
+    "dotenv": "^17.2.2"
+  }
+}
